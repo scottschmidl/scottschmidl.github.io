@@ -1,2 +1,2 @@
-###Scott Schmidl's Data Science and Machine Learning Portfolio\
+#Scott Schmidl's Data Science and Machine Learning Portfolio\
 ##HTML files for my GitHub.IO porfolio
