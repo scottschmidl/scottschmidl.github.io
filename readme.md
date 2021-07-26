@@ -1,1 +1,2 @@
-# Scott Schmidl's Data Science and Machine Learning Portfolio
+# Data Science and Machine Learning Portfolio for Scott Joseph Schmidl II
+
